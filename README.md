@@ -4,7 +4,7 @@ A Basic Movie app project for display movies and TV series details using Flutter
 
 ## [Video for app review](https://drive.google.com/file/d/1nPf1arG6SPVomoea2UU7itpzdcaMW2h8/view)
 
-## [APK File](https://drive.google.com/file/d/1wkNwY3VM7QKQXHv_1uSeouvp77Wd0Xwq/view)
+## [APK File](https://drive.google.com/file/d/1wkNwY3VM7QKQXHv_1uSeouvp77Wd0Xwq/view?usp=share_link)
 
 ## Screenshots
 
