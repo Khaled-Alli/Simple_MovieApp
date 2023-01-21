@@ -2,7 +2,7 @@
 
 A Basic Movie app project for display movies and TV series details using Flutter and Bloc as a state management
 
-## [Video for app review](https://drive.google.com/file/d/1nPf1arG6SPVomoea2UU7itpzdcaMW2h8/view)
+## [Video for app review](https://www.youtube.com/watch?v=XG3skQMOTz8)
 
 ## [APK File](https://drive.google.com/file/d/1wkNwY3VM7QKQXHv_1uSeouvp77Wd0Xwq/view?usp=share_link)
 
